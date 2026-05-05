@@ -6,7 +6,7 @@
   
   <samp>
       <br>
-      Hi there! I'm <b>Lucas Matheus</b>
+      Olá! eu me chamo <b>Lucas Matheus</b>
   </samp>
 </div>
 
