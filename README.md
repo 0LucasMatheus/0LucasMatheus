@@ -1,88 +1,50 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&reverse=true&color=0093af"/>
 
-<br>
+# Olá 👋, eu sou Lucas Matheus Ferreira da Silva
 
-<div align="center">
-  
-  <samp>
-      <br>
-      Olá! eu me chamo <b>Lucas Matheus</b>
-  </samp>
-</div>
+### Estudante de Engenharia de Software focado em desenvolvimento, Linux e infraestrutura.
 
-<br>
-<br>
-      
-<br>
-<br>
+- 🔭 Atualmente trabalhando em:
+  - 🏥 Projetos para integração e automação de sistemas clínicos
+  - 🐠 Sistema IoT de um aquário inteligente
+  - 🍊🖥️ Home server caseiro com Orange Pi
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;" alt="Typing SVG"/>
-</div>
+- 🌱 Atualmente estudando:
+  - ⚙️ DevOps
+  - 🔄 CI/CD
+  - 🐧 Linux
+  - ❄️ Nix
+  - 🐳 Docker
+  - 📟 Sistemas Embarcados
+  - 🌐 Arquitetura de redes e serviços
 
-<br>
-<br>
+- 💬 Pergunte-me sobre:
+  - 🐧 Linux
+  - 🐍 Python
+  - 📡 IoT
+  - 📟 Sistemas Embarcados
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
+- 📫 Contato:
+  - **0lucasmatheus5305@gmail.com**
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=0LucasMatheus&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0LucasMatheus&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0LucasMatheus&theme=midnight_purple"
-  />
-  <br>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://github.com/0LucasMatheus" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
 
-  </div>
+<a href="https://www.linkedin.com/in/0lucasmatheus/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
-<br>
+<a href="https://leetcode.com/u/0lucasmatheus/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
 
-##
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:lucasmatheus5305@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/0lucasmatheus/)
-  
-</div>
-
-
-
-<br>
-
-</details>
-
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0093af&height=100&section=footer"/>
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=arduino,flask,flutter,java,js,linux,mongodb,mysql,py,react,spring,docker,git" />
+</a>
+</p>
